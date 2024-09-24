@@ -1,0 +1,9 @@
+'''
+Girish Rajani-Bathija
+A20503736
+CS 577 - F22
+Assignment 2 Part 2 Programming Section
+'''
+
+Iris dataset from UCI repository publicaly available, can be downloaded at:
+https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data

@@ -1,0 +1,10 @@
+'''
+Girish Rajani-Bathija
+A20503736
+CS 577 - F22
+Assignment 4 - model files download link
+'''
+
+https://drive.google.com/drive/folders/1YIt5YGKBUrNIRq15r0MdNWPTizxPTmUA?usp=sharing
+
+The above link allows you to download the model for my cats and dogs binary classification programming part

@@ -1,0 +1,10 @@
+'''
+Girish Rajani-Bathija
+A20503736
+CS 577 - F22
+Assignment 1 Part 2 - model files download link
+'''
+
+https://drive.google.com/drive/folders/1v-6YufwJrumfBjaHt2feu9nlBOgNhPce?usp=sharing
+
+The above link allows you to download the model folder for all 3 models

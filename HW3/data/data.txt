@@ -1,0 +1,12 @@
+'''
+Girish Rajani-Bathija
+A20503736
+CS 577 - F22
+Assignment 3
+'''
+
+Iris dataset from UCI repository publicaly available, can be downloaded at:
+https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
+
+Crime and Communities dataset from UCI repository publicaly available, can be downloaded at:
+https://archive.ics.uci.edu/ml/machine-learning-databases/communities/communities.data

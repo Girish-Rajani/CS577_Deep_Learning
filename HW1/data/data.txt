@@ -1,0 +1,12 @@
+'''
+Girish Rajani-Bathija
+A20503736
+CS 577 - F22
+Assignment 1 Part 2 - data files download links
+'''
+
+Spam Email data from UCI repository publicaly available, can be downloaded at:
+https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/spambase.data
+
+Crime data from UCI repository publicaly available, can be downloaded at:
+https://archive.ics.uci.edu/ml/machine-learning-databases/communities/communities.data

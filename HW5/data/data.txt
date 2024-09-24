@@ -1,0 +1,10 @@
+'''
+Girish Rajani-Bathija
+A20503736
+CS 577 - F22
+Assignment 5
+'''
+
+the imdb and reuters datasets were imported within Keras since they are built in
+The GloVe word embedding file was downloaded at:
+http://nlp.standford.edu/data/glove.6B.zip

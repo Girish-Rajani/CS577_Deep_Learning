@@ -1,0 +1,9 @@
+'''
+Girish Rajani-Bathija
+A20503736
+CS 577 - F22
+Assignment 4
+'''
+
+Cats and Dogs dataset publicaly available, can be downloaded at:
+https://www.microsoft.com/en-us/download/confirmation.aspx?id=54765
